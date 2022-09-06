@@ -3,6 +3,8 @@
 # Google_clone
 It's static google clone built with HTML, CSS
 
+![screenshot](Google_Clone.png)
+
 ## [LiveDemo] 
 (https://zesty-smakager-1f2b9d.netlify.app)
 
