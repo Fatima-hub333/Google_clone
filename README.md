@@ -4,7 +4,7 @@
 It's static google clone built with HTML, CSS
 
 ## [LiveDemo] 
-()
+(https://zesty-smakager-1f2b9d.netlify.app)
 
 ## Built With
 
